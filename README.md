@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/Dangerwind/web-development-free-project-392/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dangerwind/web-development-free-project-392/actions)
